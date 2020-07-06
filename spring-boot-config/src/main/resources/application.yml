@@ -1,0 +1,12 @@
+#my.greeting: Hello
+app:
+   name: My App
+   description : Welcome to ${app.name}
+my.list.messages : one,two,three
+db:
+   values: "{connectionUrl: 'https:___', username: 'foo', password: 'foo'}"
+   connection: "{connectionUrl: 'https:___', username: 'foo', password: 'foo'}"
+   host: 127.0.0.1
+   port: 1200
+
+management.endpoints.web.exposure.include : "*"
