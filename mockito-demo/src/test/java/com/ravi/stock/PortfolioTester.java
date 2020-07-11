@@ -1,7 +1,11 @@
-package com.ravi;
+package com.ravi.stock;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.ravi.stock.Portfolio;
+import com.ravi.stock.Stock;
+import com.ravi.stock.StockService;
 
 import static org.mockito.Mockito.*;
 

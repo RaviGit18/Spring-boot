@@ -1,4 +1,4 @@
-package com.ravi;
+package com.ravi.stock;
 
 import java.util.List;
 
